@@ -1,0 +1,7 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|4e693cf25c6fab0b|||||||||||||||
+chart|stem|eb3535e944245fd7|8c45f0864d07838b|6d1939da61a658be|360191201||t19502.9145393379s|013bd77181bb5c51|605083|rds|local|vector|||0.11||
+monthly_return|stem|52dcce5607d2eb04|cf011858b4b229f4|c32a4ba2a20d0585|1035551513||t19502.9145103478s|911d7a825f27239f|3455|rds|local|vector|||0.4||
+save_returns|stem|41c08db886f34be3|a095e6104818eef7|efb18179a244e8c7|-1886937499||t19502.9145689651s|44e327d1ee1978d7|43|rds|local|vector|||0.14||
+stock_data|stem|57be9601c27577bd|cf2e7608265a3a42|8dbb7055ffb86024|-1300768774||t19502.9144755447s|1daf69241b501fa1|175336|rds|local|vector|||6.64||
+stocks|object|6d24da2a51f421c9|||||||||||||||
